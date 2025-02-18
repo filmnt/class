@@ -18,7 +18,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
     const opts = { ...defaultOptions, ...userOpts }
     const searchPlaceholder = i18n(cfg.locale).components.search.searchBarPlaceholder
     return (
-      <div class={classNames(displayClass, "search")}>
+      <div class={classNames(displayClass, "search")} style="margin-left:0;margin-right:auto;width:140px;margin-bottom:-60px;height:30px;">
         <button class="search-button" id="search-button">
           <p>{i18n(cfg.locale).components.search.title}</p>
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
