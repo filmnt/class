@@ -166,6 +166,7 @@ export default (() => {
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" />
           </>
         )}
+        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin={"anonymous"} />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         {/* OG/Twitter meta tags */}
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
