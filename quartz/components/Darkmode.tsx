@@ -82,6 +82,7 @@ const Darkmode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) 
         <option value="https://www.desmos.com/calculator">Desmos</option>
         <option value="https://www.algeomath.kr/algeo/main.do">AlgeoMath</option>
         <option value="https://pastebin.com/">PasteBin</option>
+        <option value="https://github.com/ocrmypdf/OCRmyPDF">OCRmyPDF</option>
         </select>
         <div style="float:left;margin-bottom:-3px;">
         <div id="google_translate_element" style="float:left;margin-right:4px;"></div>
