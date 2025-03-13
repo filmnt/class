@@ -73,11 +73,11 @@ $('#linkshare').prop('selectedIndex',0);};
 <span></span>
 <button id="Link" onClick="openGraph()" >Graph</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = 'Subject-3/note-1.pdf'" >노트-1</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-3/note-1.pdf'" >Note-1</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = 'Subject-3/note-2.pdf'" >노트-2</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-3/note-2.pdf'" >Note-2</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = 'Subject-3/note-3.pdf'" >노트-3</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-3/note-3.pdf'" >Note-3</button>
 <span></span>
 <button class="fullbtn">Fullscreen</button> 
 </span>
