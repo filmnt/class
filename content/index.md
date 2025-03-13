@@ -86,7 +86,7 @@ $('#linkshare').prop('selectedIndex',0);};
 
 <div class="slideshow-container" >
 <div class="Slides">
-<a class="weatherwidget-io" href="https://forecast7.com/en/35d54129d31/ulsan/" data-label_1="울산" data-label_2="WEATHER" data-font="Noto Sans" data-icons="Climacons Animated" data-theme="weather_one" target=”_blank”> </a>
+<a class="weatherwidget-io" href="https://forecast7.com/en/37d57126d98/seoul/" data-label_1="Seoul" data-label_2="WEATHER" data-font="Noto Sans" data-icons="Climacons Animated" data-theme="weather_one" target=”_blank”> </a>
 </div>
 
 <div class="Slides">
@@ -187,7 +187,7 @@ function fullscreenChange() {
 
 %% content %%
 <div id="container">
-<div><iframe id="content" src="2025-notebook.pdf" width="100%" height="1200"  frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe></div>
+<div><iframe id="content" src="notebook.pdf" width="100%" height="1200"  frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe></div>
 <div class="error"></div>
 </div>
 <style>#container {text-align: center;height: 100%;margin-top:4px}.error {font-weight: bold;font-size: 20px;padding: 20px;}</style>

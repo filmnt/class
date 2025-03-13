@@ -59,13 +59,13 @@ $('#linkshare').prop('selectedIndex',0);};
 
 %% buttons %%
 <span>
-<button id="Link" onClick="document.getElementById('content').src = '과목1/seat.pdf'" >자리배치표</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-4/seat.pdf'" >자리배치표</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = '과목1/textbook.pdf'" >교과서</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-4/textbook.pdf'" >교과서</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = '과목1/act.pdf'" > 학습지</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-4/act.pdf'" > 학습지</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = '과목1/eval.pdf'" >형성평가</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-4/eval.pdf'" >형성평가</button>
 <br>
 <button id="Link" onClick="document.getElementById('content').src ='https://excalidraw.com'" >Excalidraw</button>
 <span></span>
@@ -73,11 +73,11 @@ $('#linkshare').prop('selectedIndex',0);};
 <span></span>
 <button id="Link" onClick="openGraph()" >Graph</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = '과목1/note-1.pdf'" >노트-1</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-4/note-1.pdf'" >노트-1</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = '과목1/note-2.pdf'" >노트-2</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-4/note-2.pdf'" >노트-2</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = '과목1/note-3.pdf'" >노트-3</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-4/note-3.pdf'" >노트-3</button>
 <span></span>
 <button class="fullbtn">Fullscreen</button> 
 </span>
@@ -146,7 +146,7 @@ function fullscreenChange() {
 
 %% content %%
 <div id="container">
-<div><iframe id="content" src="수업/과목1/seat.pdf" width="100%" height="1200"  frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe></div>
+<div><iframe id="content" src="Class/Subject-4/seat.pdf" width="100%" height="1200"  frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe></div>
 <div class="error"></div>
 </div>
 <style>#container {text-align: center;height: 100%;margin-top:4px}.error {font-weight: bold;font-size: 20px;padding: 20px;}</style>
