@@ -59,13 +59,13 @@ $('#linkshare').prop('selectedIndex',0);};
 
 %% buttons %%
 <span>
-<button id="Link" onClick="document.getElementById('content').src = 'Subject-1/seat.pdf'" >자리배치표</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-1/seat.pdf'" >Seat</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = 'Subject-1/textbook.pdf'" >교과서</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-1/textbook.pdf'" >Textbook</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = 'Subject-1/act.pdf'" > 학습지</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-1/act.pdf'" > Task</button>
 <span></span>
-<button id="Link" onClick="document.getElementById('content').src = 'Subject-1/eval.pdf'" >형성평가</button>
+<button id="Link" onClick="document.getElementById('content').src = 'Subject-1/eval.pdf'" >Evaluation</button>
 <br>
 <button id="Link" onClick="document.getElementById('content').src ='https://excalidraw.com'" >Excalidraw</button>
 <span></span>
