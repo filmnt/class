@@ -30,3 +30,5 @@ Open Github-Desktop and Add `class`, `commit and push`
 
 This should deploy your site to <github-username>.github.io/<repository-name> like `filmnt.github.io/class`
 > ShortUrl -> `repository-name` -> `<username>.github.io`
+
+> [Join the Discord Community](https://filmnt.github.io/share/3) 
