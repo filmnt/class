@@ -15,4 +15,4 @@ Connect `localhost:8082`
 `Settings` - `Pages` -> Under `Source`, select `GitHub Actions`
 
 This should deploy your site to <github-username>.github.io/<repository-name> like `filmnt.github.io/class`
-> ShotUrl -> `repository-name` -> `<username>.github.io`
+> ShortUrl -> `repository-name` -> `<username>.github.io`
